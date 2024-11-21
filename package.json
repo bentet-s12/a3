@@ -38,5 +38,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+    "eslintConfig": {
+    "rules": {
+        "no-unused-vars": "warn",
+        "jsx-a11y/iframe-has-title": "warn"
+    }
+}
   }
 }
