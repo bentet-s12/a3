@@ -14,8 +14,8 @@ const Footer = () => {
         <ul>
           <h4>Directory</h4> {/* Replaced label with h4 */}
           <li><Link to="/">Home</Link></li>
-          <li><Link to="/products">Products</Link></li>
-          <li><Link to="/services">Services</Link></li>
+          <li><Link to="/Cats">Adoption</Link></li>
+          <li><Link to="/release">Release</Link></li>
           <li><Link to="/aboutus">About Us</Link></li>
         </ul>
         
