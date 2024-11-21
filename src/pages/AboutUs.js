@@ -17,7 +17,7 @@ const AboutUs = () => {
                 </div>
                 <div className='storytime'>
                     <h3>our <b>FOUNDER</b></h3><br></br>
-                    <p>i know i been selfish, hanging by a thread uh. thats how i live, living in agony. feel about how to pick me up from this hole i trapped myself in</p>
+                    <p>Mr undah is the passionate founder of Pet Haven, a shelter dedicated to rescuing and rehoming abandoned and neglected animals. With a lifelong love for animals and a deep sense of empathy for those without a voice, they established Pet Haven to provide a safe, caring environment for pets in need. What began as a personal mission to make a difference in the lives of stray animals has since grown into a trusted sanctuary, offering not only shelter but also medical care, rehabilitation, and adoption services, ensuring that every animal finds a loving forever home.</p>
                 </div>
                 </div>
                 <div className='flex-rerow'>
@@ -26,7 +26,7 @@ const AboutUs = () => {
                 </div>
                 <div className='storytime'>
                     <h3>our <b>TEAM</b></h3><br></br>
-                    <p>so poor but im so wealthy tell me lies but im so healthy. so misunderstoood , i wish i could heeelp . but its hard cos i hate myself what is success </p>
+                    <p>The dedicated team at Pet Haven is a group of passionate and compassionate individuals who share a deep commitment to animal welfare. Led by mr Undah, each team member brings unique skills and expertise, from animal care and medical treatment to volunteer coordination and outreach. With a shared vision of creating a better future for homeless pets, the team works tirelessly to ensure every animal receives the love, attention, and care they deserve. Their collective efforts and unwavering dedication make Pet Haven not just a shelter, but a true community where every pet has a chance at a better life. </p>
                 </div>
                 </div>
             </div>
