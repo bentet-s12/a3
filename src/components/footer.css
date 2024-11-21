@@ -1,0 +1,36 @@
+
+footer{
+    background-color: #AA987B;
+    display: flex;
+    height: auto;
+    box-shadow: 0px 0px 11px black, 0px 0px 11px black;
+    color: white;
+    .clogo{
+        width: 220px;
+    }
+}
+.ftcontainer{
+    width: 90%;
+    margin: 0 auto;
+    height: inherit;
+    padding: 2%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+footer|*{
+    height: auto;
+    display: flex;
+}
+footer.logos{
+    width: 20%;
+    height: 30vh;
+    padding: 1%;
+    
+}footer .logos iframe {
+    width: 120%;
+    height: 30vh;
+    border: none;
+    
+  }
+  

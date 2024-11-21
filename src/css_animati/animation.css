@@ -1,0 +1,21 @@
+* {
+    background-color: black;
+}
+/* hamburger menu animations */
+.hamburger_menu {
+    background-image: url(./icons/hamburger_menu.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 50px;
+    height: 50px;
+    transition: transform 0.1s linear; /* Transition on transform */
+}
+
+.hamburger_menu:hover {
+    transform: rotate(90deg); /* Apply rotation on hover */
+}
+
+.active{
+    rotate: 90deg;
+}
